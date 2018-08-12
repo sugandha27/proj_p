@@ -14,7 +14,8 @@
 
 ---
 
-#### More about HTML
+#### More about HTML:
+
 
 ![HTML Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/HTML5_logo_resized.svg/170px-HTML5_logo_resized.svg.png)
 
