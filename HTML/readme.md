@@ -1,4 +1,5 @@
-### HTML CODE 
+## HTML CODE 
+
 
 ***Hi*, this folder has all the HTML files.**
 
@@ -24,8 +25,8 @@ Web browsers receive HTML documents from a web server or from local storage and 
 - Sugandha
 
 ##### References:
-- [W3 Schools](https://www.w3schools.com/html/)
-- [Wikipedia](https://en.wikipedia.org/wiki/HTML)
+* [W3 Schools](https://www.w3schools.com/html/)
+* [Wikipedia](https://en.wikipedia.org/wiki/HTML)
 
 ---
 
