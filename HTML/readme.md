@@ -1,15 +1,12 @@
 # HTML CODE 
 
-
-
-
 ***Hi*, this folder has all the HTML files.**
 
 :blush:  :blush:  :blush:  :blush:  :blush:  :blush:  :blush:  :blush:  :blush:  :blush:  :blush:  :blush:
 
 **~~Great Designers~~, sorry we aren't.** 
 
-##### Sample Block
+##### Sample Block:
 
 ```HTML
 <tag attribute="value">Inner HTML</tag>
@@ -28,13 +25,16 @@ Web browsers receive HTML documents from a web server or from local storage and 
 ---
 
 ##### Contributors:
-- Anshul 
-- Sonakshi
-- Sugandha
+
+| Name       | Github Username |
+|------------|-----------------|
+| Anshul     | [anshulbatra](https://github.com/anshulbatra "Link to Anshul's Github profile")|
+| Sonakshi   | [ssonaa](https://github.com/ssonaa "Link to Sona's Github profile")            |
+| Sugandha   | [sugandha27](https://github.com/sugandha27 "Link to Sugandha's Github profile")|
 
 ##### References:
 * [W3 Schools](https://www.w3schools.com/html/)
-* [Wikipedia](https://en.wikipedia.org/wiki/HTML)
+- [Wikipedia](https://en.wikipedia.org/wiki/HTML)
 
 ---
 
