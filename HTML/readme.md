@@ -16,7 +16,6 @@
 
 #### More about HTML:
 
-
 ![HTML Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/HTML5_logo_resized.svg/170px-HTML5_logo_resized.svg.png)
 
 [*Hypertext Markup Language*](https://en.wikipedia.org/wiki/HTML "Link to HTML") (HTML) is the standard markup language for creating web pages and web applications. With [*Cascading Style Sheets*](https://en.wikipedia.org/wiki/Cascading_Style_Sheets "Link to CSS") (CSS) and [*JavaScript*](https://en.wikipedia.org/wiki/JavaScript "Link to JavaScript"), it forms a triad of cornerstone technologies for the World Wide Web.
